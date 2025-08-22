@@ -1,4 +1,4 @@
-<h1 align="center">Hey! DEVs, it's Abhay 🐱‍👤</h1>
+<h1 align="center">it's Abhay.</h1>
 <h3 align="center">developer;</h3>
 
 
